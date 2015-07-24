@@ -2,9 +2,14 @@
 body{
 
 	background-color: black;
-	color:white;
+
 }
 
+body>p{
+	color: white;
+	text-align: center;
+	
+}
 
 .main{
 	
